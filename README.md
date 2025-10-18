@@ -68,5 +68,3 @@ This version allows you to delete GMS applications outside of the Google Play St
 
 - This module is designed to remove GMS only at a basic level. If you want a more comprehensive deletion system apps, you can use the following application;
     - De-Bloater [GitHub](https://github.com/sunilpaulmathew/De-Bloater) | [F-Droid](https://f-droid.org/packages/com.sunilpaulmathew.debloater/)
-
-----
