@@ -1,5 +1,3 @@
-----
-
 # 🗑️ GMS uninstaller
 `by readonlynux`
 
@@ -11,8 +9,6 @@ This module allows you to uninstall GMS (Google Mobile Services) applications us
 
 >  ⚠️ This module **may not be stable**. If you encounter any errors, please report them in the issue section.
 
-----
-
 # 📙 How to use?
 
 Before installing the module;
@@ -23,37 +19,25 @@ Before installing the module;
 
 ![settings_image](assets/1.png)
 
-----
-
 2. Click  **See all apps**
 
 ![settings_apps_image](assets/2.png)
-
-----
 
 3. Type the names of all the apps you want to remove.
 
 ![settings_apps_type_appsname](assets/3.png)
 
-----
-
 4. Go to app information and click on the 3 dots in the top right corner.
 
 ![settings_appinfo](assets/4.png)
-
-----
 
 5. Press **Uninstall updates**
 
 ![settings_appinfo_uninstallupdates](assets/5.png)
 
-----
-
 6. And uninstall
 
 ![packagemanager_deleteapp](assets/6.png)
-
-----
 
 # 🔹 GMS uninstaller's
 
@@ -69,8 +53,6 @@ This version allows you to delete all GMS.
 - Google Services Framework
 - Google Play Store
 
-----
-
 ## 🗑️ GMS uninstaller without Google Play Store
 
 This version allows you to delete GMS applications outside of the Google Play Store.
@@ -80,11 +62,7 @@ This version allows you to delete GMS applications outside of the Google Play St
 - Google Play Services
 - Google Services Framework
 
-----
-
 # ❓ FAQ
-
-----
 
 ### ❌ I want a more advanced deletion system apps.
 
