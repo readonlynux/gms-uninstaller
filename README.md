@@ -7,7 +7,11 @@ This module allows you to uninstall GMS (Google Mobile Services) applications us
 
 > **⛔ WARNING:** This module removes GMS, but removing GMS applications can **CAUSE SYSTEM-WIDE INSTABILITY**. When removing GMS applications, find an alternative or remove all GMS-connected applications to avoid causing system issues.
 
->  ⚠️ This module **may not be stable**. If you encounter any errors, please report them in the issue section.
+> ⚠️ This module **may not be stable**. If you encounter any errors, please report them in the issue section.
+
+## 📜 Legal Informations
+
+**I AM NOT RESPONSIBLE FOR ANY PROBLEMS THAT MAY OCCURR! Use at your own risk!**
 
 # 📙 How to use?
 
